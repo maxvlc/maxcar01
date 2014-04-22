@@ -338,10 +338,10 @@ a:focus {
 #footer .social li .facebook:focus { color: #3b5998 }
 #footer .social li .twitter:hover,
 #footer .social li .twitter:focus { color: #00aced }
-#footer .social li .google-plus:hover,
-#footer .social li .google-plus:focus { color: #d34836 }
-#footer .social li .dribbble:hover,
-#footer .social li .dribbble:focus { color: #ea4c89 }
+#footer .social li .linkedin:hover,
+#footer .social li .linkedin:focus { color: #d34836 }
+#footer .social li .tumblr:hover,
+#footer .social li .tumblr:focus { color: #ea4c89 }
 #footer .copyright { margin-bottom: 0 }
 /* Responsive style */
 @media screen and (max-width: 1024px) { 
